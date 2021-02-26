@@ -1,0 +1,28 @@
+1,  surgery?
+2,  Age
+3,  Hospital Number
+4,  rectal temperature
+5,  pulse
+6,  respiratory rate
+7,  temperature of extremities
+8,  peripheral pulse
+9,  mucous membranes
+10, capillary refill time
+11, pain 
+12, peristalsis
+13, abdominal distension
+14, nasogastric tube
+15, nasogastric reflux
+16, nasogastric reflux PH
+17, rectal examination - feces
+18, abdomen
+19, packed cell volume
+20, total protein
+21, abdominocentesis appearance
+23, outcome
+22, abdomcentesis total protein
+24, surgical lesion?
+25, type of lesion_1
+26, type of lesion_2
+27, type of lesion_3
+28, cp_data
